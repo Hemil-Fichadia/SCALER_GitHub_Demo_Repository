@@ -1,5 +1,5 @@
-Class A{
-    public void printHelloWorld(){
+class A {
+    public void printHelloWorld() {
         System.out.println("Hello world");
     }
 }

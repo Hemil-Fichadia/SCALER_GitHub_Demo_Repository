@@ -1,5 +1,5 @@
-Class Calculator{
-    public int add(int a, int b){
+class Calculator {
+    public int add(int a, int b) {
         return a + b;
     }
 }

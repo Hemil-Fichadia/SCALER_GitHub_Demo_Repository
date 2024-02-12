@@ -1,5 +1,5 @@
-Class C{
-    public int subtract(int a, int b){
+class C {
+    public int subtract(int a, int b) {
         return a - b;
     }
 }
