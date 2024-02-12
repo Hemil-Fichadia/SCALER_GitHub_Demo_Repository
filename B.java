@@ -3,5 +3,5 @@ class B {
         return a + b;
     }
 
-    private int a;
+    private int b;
 }
